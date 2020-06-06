@@ -19,18 +19,18 @@ let's explore what this personal assistant do for us:
 
 and more things we can add in it..
 
-#Requirements:
+# Requirements:
 Make sure you install these packages before moving forward.
-1. #Speech Recognition
+1. # Speech Recognition
    pip install SpeechRecognition
 
-2. #PyAudio is required for microphone input
+2. # PyAudio is required for microphone input
    pip install pyaudio
 
-3. #ttsx: (Offline Text to Speech Service)
+3. # ttsx: (Offline Text to Speech Service)
    pip install pyttsx3
    
-4. #Wikipedia
+4.  #Wikipedia
    pip install wikipedia
 
 
